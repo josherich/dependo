@@ -1,6 +1,12 @@
 dependo
 ===========
 
+This is a fork, trying to embrace codebase analysis visualization
+-------------
+
+---
+
+
 Visualize your CommonJS, AMD, or ES6 module dependencies in a force directed graph report - powered by [D3.js](http://d3js.org/).
 
 **NEW MAINTAINER WANTED**: This project hasn't been maintained in while, so if you wanna help out, please let me know!
